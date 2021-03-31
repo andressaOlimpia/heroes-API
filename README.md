@@ -13,7 +13,7 @@ local de origem e se sua identidade é secreta.
 👣 Passo a passo:
 - Criação da classe DynamoConfig com a configuração para conexão com o DynamoDB local;
 - Criação da classe HeroesTable para possibilitar a criação da tabela de heróis no banco de dados usando o Java;
-- Implementação da classe de serviço com métodos findAll, findById, save, update e delete utilizando a interface CrudRepository<T,ID>;
+- Implementação da classe de serviço com métodos findAll, findById, create, update e delete utilizando a interface CrudRepository<T,ID>;
 - Definição dos endpoints da API na camada controller para lidar com as requisições de usuário;
 - Desenvolvimento de testes unitários para todos os métodos da camada controller com Junit a partir do recurso WebTestClient;
 

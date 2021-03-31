@@ -18,8 +18,8 @@ local de origem e se sua identidade é secreta.
 - Desenvolvimento de testes unitários para todos os métodos da camada controller com Junit a partir do recurso WebTestClient;
 
 🔗 Links muito úteis que encontrei durante o desenvolvimento da API:
-- Java e DynamoDB --> https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/GettingStarted.Java.html
-- Spring WebFlux Tutorial --> https://howtodoinjava.com/spring-webflux/spring-webflux-tutorial/
-- REST API: Java Spring Boot & AWS DynamoDB --> https://medium.com/@kaikeventura/api-rest-com-spring-boot-e-aws-dynamodb-5e79ecb80b62
-- Spring – @WebFluxTest with WebTestClient --> https://howtodoinjava.com/spring-webflux/webfluxtest-with-webtestclient/
-- MARVEL CHARACTERS - https://www.marvel.com/characters
+- [Java e DynamoDB](https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/GettingStarted.Java.html)
+- [Spring WebFlux Tutorial](https://howtodoinjava.com/spring-webflux/spring-webflux-tutorial/)
+- [REST API: Java Spring Boot & AWS DynamoDB](https://medium.com/@kaikeventura/api-rest-com-spring-boot-e-aws-dynamodb-5e79ecb80b62)
+- [Spring – @WebFluxTest with WebTestClient](https://howtodoinjava.com/spring-webflux/webfluxtest-with-webtestclient/)
+- [MARVEL CHARACTERS](https://www.marvel.com/characters)
